@@ -28,6 +28,4 @@ I obtained my Ph.D. in Dec. 2019 from [University of Groningen](https://www.rug.
 - Efficient Online Decision-Making (Reinforcement Learning and Bandits) 
 - Data-Driven Control
 
-[Google Scholar](https://scholar.google.com/citations?user=C6BNYB0AAAAJ&hl) | [LinkedIn](https://www.linkedin.com/in/yuzhen-qin-708340169/) | [Twitter (X)](https://twitter.com/YuzhenQin) | [Research Gate](https://www.researchgate.net/profile/Yuzhen-Qin) 
-
-<img src="brain_nets.png" width="50" height="50">
+[Google Scholar](https://scholar.google.com/citations?user=C6BNYB0AAAAJ&hl) | [LinkedIn](https://www.linkedin.com/in/yuzhen-qin-708340169/) | [Twitter (X)](https://twitter.com/YuzhenQin) | [ResearchGate](https://www.researchgate.net/profile/Yuzhen-Qin) 
