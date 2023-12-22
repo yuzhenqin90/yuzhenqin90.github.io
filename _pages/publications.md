@@ -12,7 +12,7 @@ sections:
     text: "<h1>Preprints</h1>"
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 social: true
-nav: false
+nav: true
 nav_order: 3
 ---
 
