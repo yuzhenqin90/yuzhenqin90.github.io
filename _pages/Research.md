@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /People/
-title: People
+permalink: /Research/
+title: Research
 description: members of the lab or group
 nav: true
 nav_order: 5
