@@ -1,26 +1,23 @@
 ---
 layout: about
-title: about
+title: Homepage
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.ru.nl/en'>Radboud University</a>, Nijmegen, Netherlands. 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: YQin.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office: MM 03.385</p>
+    <p>Email: yuzhen.qin@ru.nl</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Tenure-Track Assistant Professor in the Department of Machine Learning and Neural Computing in [Donders Institute](https://www.ru.nl/donders/) for Brain, Cognition and Behaviour at [Radboud University](https://www.ru.nl/en), the Netherlands. I am also a member of Dutch Brain Interface Initiative ([DBI2](https://dbi2.nl/about-dbi2)), a multi-institude consortium backed by a substantial 10-year grant totaling € 21.9M. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my Ph.D. in Dec. 2019 from [University of Groningen](https://www.rug.nl), the Netherlands, advised by [Prof. Ming Cao](https://www.rug.nl/staff/m.cao/). I received my M.E. from Wuhan University in 2015. From 2020 to 2023, I was a Postdoctoral Researcher with [Prof. Fabio Pasqualetti](https://www.fabiopas.it/index.html) in the Department of Mechanical Engineering  at the University of California, Riverside.
