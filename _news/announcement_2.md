@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-2-18 15:59:00-0400
+date: 2023-11-06 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I gave a talk on “Stochastic Contextual Bandits with Long Horizon Rewards” at **ITA 2023**.
+Our paper "Vibrational Stabilization of Cluster Synchronization in Oscillator Networks" has been accepted to IEEE Open Journal of Control Systems ([HTML](https://ieeexplore.ieee.org/abstract/document/10313029)).
