@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Yuzhen Qin # the website title (if blank, full name will be used instead)
 first_name: Yuzhen
 middle_name:
 last_name: Qin
@@ -15,7 +15,7 @@ keywords: #jekyll, jekyll-theme, academic-website, portfolio-website  # add your
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  brain_nets.png #⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
+url: https://yuzhenqin90.github.io/ # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -48,7 +48,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 880px
+max_width: 900px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Drop me an email if you want to reach out.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -231,7 +231,7 @@ scholar:
   last_name: [Qin]
   first_name: [Yuzhen]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
@@ -249,6 +249,9 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
 
+  # numbering: descending
+
+  # order: ascending
   query: "@*"
   group_by: year
   group_order: descending

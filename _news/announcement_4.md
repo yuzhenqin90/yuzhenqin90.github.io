@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-16 07:59:00-0400
+date: 2023-11-06 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I started a new position as an assistant professor in the Department of Machine Learning and Neural Computing in the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at [Radboud University](https://www.ru.nl/en), the Netherlands! :sparkles: 
+Our paper "Vibrational Stabilization of Cluster Synchronization in Oscillator Networks" has been accepted to IEEE Open Journal of Control Systems ([HTML](https://ieeexplore.ieee.org/abstract/document/10313029)).

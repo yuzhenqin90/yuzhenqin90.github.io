@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-2-09 15:59:00-0400
+date: 2024-03-25 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I gave a talk on “Stochastic Contextual Bandits with Long Horizon Rewards” at **AAAI 2023**.
+We submitted our paper "Analytical Characterization of Epileptic Dynamics in a Bistable System" to IEEE CDC 2024.

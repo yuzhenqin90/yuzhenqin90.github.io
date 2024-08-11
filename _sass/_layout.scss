@@ -41,7 +41,17 @@ body.sticky-bottom-footer {
  ******************************************************************************/
 
 // TODO: redefine publications layout.
-
+div.bibliography-container {
+  counter-reset: bibitem;
+  ol li {
+      counter-increment: bibitem;
+      padding: 0 0 0 .3em;
+  }
+  ol li::marker {
+      content: counter(bibitem) ".";
+      font-weight: bold;
+  }
+}
 
 /*****************************************************************************
 * Projects
