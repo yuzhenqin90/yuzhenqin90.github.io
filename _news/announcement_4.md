@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-11-06 15:59:00-0400
+date: 2024-11-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper "Vibrational Stabilization of Cluster Synchronization in Oscillator Networks" has been accepted to IEEE Open Journal of Control Systems ([HTML](https://ieeexplore.ieee.org/abstract/document/10313029)).
+I gave a talk on "modeling and control of epilepsy" to the [Utrecht-BCI lab](https://www.nick-ramsey.eu/), led by Prof. Nick F Ramsey. We had a wonderful discussion there!  
+ 
