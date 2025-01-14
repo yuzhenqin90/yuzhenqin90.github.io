@@ -23,6 +23,7 @@ An up-to-date list is available on [Google Scholar](https://scholar.google.com/c
 {%- for section in page.sections %}
   <a id="{{section.text}}"></a>
   <p class="bibtitle">{{section.text}}</p>
+  
   {%- for y in page.years %}
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
