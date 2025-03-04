@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk on "Towards Predictable Brain Stimulation for Epilepsy" to the Institute for System Analytics and Control (ISAC) at University of Kassel, Kassel, Germany.  
+I gave a talk on "Towards Predictable Brain Stimulation for Epilepsy" to the [Institute for System Analytics and Control (ISAC)](https://www.uni-kassel.de/eecs/en/control/home) at University of Kassel, Kassel, Germany. Thank Prof. Olaf Stursberg and Zonling for inviting me!
  
