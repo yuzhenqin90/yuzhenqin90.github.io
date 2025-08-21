@@ -48,7 +48,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 1000px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -233,6 +233,8 @@ scholar:
 
   style: ieee
   locale: en
+  
+  
 
   source: /_bibliography/
   bibliography: papers.bib
@@ -249,12 +251,20 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
 
-  # numbering: descending
+  # numbering: ascending
 
   # order: ascending
+  # query: "@*"
+  # group_by: year
+  # group_order: descending
+  
+  numbering: true
+  sort_by: year
+  order: descending
+  reversed: true
+
   query: "@*"
-  group_by: year
-  group_order: descending
+
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
