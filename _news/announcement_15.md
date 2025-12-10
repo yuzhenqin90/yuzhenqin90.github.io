@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "[Vibrational Control of Complex Networks]((http://arxiv.org/abs/2408.08263))" has been accepted to *IEEE Transactions on Control of Network Systems*.
+Our paper "[Vibrational Control of Complex Networks](https://ieeexplore.ieee.org/document/11194716)" has been accepted to *IEEE Transactions on Control of Network Systems*.
