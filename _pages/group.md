@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 ### PhD Students
- - Weimin Wang 
+ - Jie Ruan (visiting PhD) 
  - Nicole Rogalla (co-supervised with Marcel van Gerven)
 
 ### Master's Students
